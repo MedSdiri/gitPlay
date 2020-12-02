@@ -5,5 +5,6 @@ public class mainClass {
         System.out.println("just created a branch method1");
         MethodOne.method1();
         MethodOneBranch.method1branch();
+        System.out.println(""just added these lines from ATOM god I hate this ATOM"");
     }
 }
